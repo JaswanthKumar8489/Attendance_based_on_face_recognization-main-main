@@ -8,7 +8,7 @@ A real-world student attendance system which recognizes face of student and atte
 
 ## Developer
 
-- [@Jayanth2k4](https://github.com/Jayanth2k4)
+- [@JaswanthKumar8489](https://github.com/JaswanthKumar8489)
 
 ## Demo
 
